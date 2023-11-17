@@ -8,5 +8,10 @@ This uses terraform to create a fedora docker container to test against.
 
 #### How to run
 
-`terraform init`
-`terraform apply`
+```
+terraform init
+```
+
+```
+terraform apply
+```
